@@ -1,5 +1,5 @@
 ## Introduction
-This is my very Android project (2013-2014) for News Reading App, called  aNewsReader.
+This is my very old Android project (2013-2014) for News Reading App, called  aNewsReader.
 Allow you to manage News websites and reading (audio). It is very basic and was
 developed using App Inventer (https://ai2.appinventor.mit.edu/) so do not expect a perfect app. 
 I shared here for any people interested to develop it further. 
