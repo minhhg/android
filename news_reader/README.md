@@ -47,3 +47,5 @@ The Android app calls text-speak to turn it to audio.
    In the first text box: you enter "http://192.168.1.10/index.php?url=", 
    where 192.168.1.10 is your server ip address, then press Setup.
    After that you can enter any news website and press go, then Read if you want to hear audio.
+
+If you have any question, please email me at minh.scholar at gmail.com.
